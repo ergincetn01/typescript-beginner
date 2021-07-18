@@ -11,6 +11,12 @@ const Navbar:React.FC=()=>
                 <MenuItem >
                 <Link to="/home" >Home</Link>
                 </MenuItem>
+                <MenuItem >
+                <Link to="/page2" >page2</Link>
+                </MenuItem>
+                <MenuItem >
+                <Link to="/page3" >page3</Link>
+                </MenuItem>
             </Menu>
         )
 
